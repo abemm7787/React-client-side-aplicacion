@@ -1,2 +1,2 @@
 # React-client-side-aplicacion
-Prototype app with open-source front-end JavaScript library  build initially to handle  employee  clock in and out digital data.
+Prototype app with open-source front-end JavaScript library. Redux/React/ build to handle movie search and add custom favorites.
